@@ -7,6 +7,7 @@
 - 📫 How to reach me leonardt.zheve@gmail.com
 - 😄 Pronouns: they/them/theirs
 - ⚡ Fun fact: I love pineapple on pizza!
+- 🌟 Let's connect on LinkedIn: https://www.linkedin.com/in/leonard-zheve/ 
 
 <!---
 leonardtinozheve/leonardtinozheve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
