@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leonardtinozheve
-- 🏫 I'm a sophomore at Wesleyan University majoring in CS and Econ
+- 🏫 I'm a sophomore at Wesleyan University majoring in CS
 - 🇿🇼 I'm originally from Harare, Zimbabwe
 - 👀 I’m interested in full-stack development, APIs and fintech
 - 🌱 I’m currently learning C, Javascript, CSS and HTML
