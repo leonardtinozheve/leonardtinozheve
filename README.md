@@ -16,7 +16,7 @@
 ```
 
 <p align="center">
-  <p align="center"
+  <p align="center">
     <img src="https://img.shields.io/badge/python" alt="Python"/>
     <img src="[https://img.shields.io/badge/c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)" alt="C"/>
     <img src="" alt="Javascript"/>
