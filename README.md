@@ -14,7 +14,7 @@
 ```bash
                                   SKILLS
 ```
-<h2 align="center">Programming Languages</h2>
+<h3 align="center">Programming Languages</h3>
 
 <!---
 leonardtinozheve/leonardtinozheve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
