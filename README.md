@@ -20,8 +20,9 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
-    <img src="" alt="SML"/>
+    <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fcs.uchicago.edu%2Fpeople%2Fjohn-h-reppy%2F&psig=AOvVaw03twChL38suzxobJhCWSds&ust=1736862131068000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiWq-jp8ooDFQAAAAAdAAAAABAE" alt="Standard ML"/>
     <img src="" alt="MATLAB"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
