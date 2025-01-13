@@ -1,3 +1,7 @@
+```bash
+                                  ABOUT ME
+```
+
 - 😄 Pronouns: they/them/theirs
 - 📚 Sophomore at Wesleyan University majoring in Computer Science and Sociology
 - 🇿🇼 Originally from Harare, Zimbabwe
