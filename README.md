@@ -14,7 +14,26 @@
 ```bash
                                   SKILLS
 ```
-<h3 align="center">Programming Languages</h3>
+
+<p align="center">
+  <p align="center"
+    <img src="https://img.shields.io/badge/python" alt="Python"/>
+    <img src="https://img.shields.io/badge/c" alt="C"/>
+    <img src="" alt="Javascript"/>
+    <img src="" alt="SML"/>
+    <img src="" alt="MATLAB"/>
+    <img src="" alt="HTML"/>
+    <img src="" alt="CSS"/>
+    <img src="" alt="React.js"/>
+    <img src="" alt="Netlify"/>
+    <img src="" alt="Git"/>
+    <img src="" alt="GitHub"/>
+    <img src="" alt="Visual Studio Code"/>
+    <img src="" alt=""/>
+    <img src="" alt=""/>
+    <img src="" alt=""/>
+  </p>
+</p>
 
 <!---
 leonardtinozheve/leonardtinozheve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
