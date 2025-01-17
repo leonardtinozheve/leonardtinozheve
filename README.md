@@ -1,5 +1,5 @@
 ```bash
-                                                                            ABOUT ME
+                                                        ABOUT ME
 ```
 
 - 😄 Pronouns: they/them/theirs
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love pineapple on pizza! 
 
 ```bash
-                                                                            SKILLS
+                                                         SKILLS
 ```
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 
 ```bash
-                                                                           CONTACTS
+                                                        CONTACTS
 ```
 <p align="center">Feel free to reach out if you want to collaborate on a project!</p>
 
