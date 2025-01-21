@@ -36,7 +36,7 @@
 ```bash
                                                         MY STATS
 ```
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardtinozheve&show_icons=true&locale=en&theme="synthwave" alt="leonardtinozheve" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardtinozheve&theme=ambient_gradient&show_icons=true" alt="leonardtinozheve" /></p>
 
 
 ```bash
