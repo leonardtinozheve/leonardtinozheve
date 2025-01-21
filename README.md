@@ -33,6 +33,11 @@
   </p>
 </p>
 
+```bash
+                                                        MY STATS
+```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardtinozheve&show_icons=true&locale=en&theme=ambient-gradient" alt="leonardtinozheve" /></p>
+
 
 ```bash
                                                         CONTACTS
