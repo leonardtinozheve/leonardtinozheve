@@ -6,7 +6,7 @@
 - 📚 Sophomore at Wesleyan University majoring in Computer Science and Sociology
 - 🇿🇼 Originally from Harare, Zimbabwe
 - 👩🏾‍💻 Interested in full-stack development and fintech
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Swift
 - ⚙️ Eager to collaborate on impactful Open Source projects!
 - 📫 How to reach me leonardt.zheve@gmail.com
 - ⚡ Fun fact: I love pineapple on pizza! 
